@@ -1,1 +1,36 @@
+body {
+  background: rgba(255, 166, 0, 0.635);
+  color: black;
+  font-family: sans-serif;  
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
 
+h2 {
+    color: rgba(255, 0, 0, 0.434);
+    font-size: 25px;
+}
+
+h3 {
+    font-weight: 100;
+    font-size: larger;
+}
+
+.recipe-section {
+  border: 20px dotted rgba(255, 0, 0, 0.393);
+  padding: 15px;
+  margin: 20px 0;
+}
+
+a {
+  color: beige;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+img {
+  border: 5px solid black;
+}
